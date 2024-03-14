@@ -8,6 +8,3 @@ This respiratory includes PHP files for a website made by <b>Hồ Mạnh Quân</
 
 # Progress:
 > End of support.
-
-# Contacts:
-> homanhquan1812@gmail.com
